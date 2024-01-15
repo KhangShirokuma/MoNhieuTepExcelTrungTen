@@ -1,5 +1,7 @@
 # Mở Nhiều Tệp Excel Trùng Tên
 
+**[Quay về Trang chủ](https://khangshirokuma.github.io/)**
+
 Nhiều tệp Excel (.xlsx) nằm trong nhiều thư mục khác nhau có tên trùng nhau (2 tệp ở trong cùng 1 thư mục thì không thể trùng tên và trùng phần mở rộng). Thông thường, khi mở các tệp Excel, Excel sẽ mở các tệp đó trong cùng 1 thực thể (instance), cho nên, không thể mở 2 tệp trùng tên cùng 1 lúc.
 
 Để mở 2 tệp Excel trùng tên, cần tạo thêm 1 thực thể mới tách biệt với thực thể đang có sẵn. 
